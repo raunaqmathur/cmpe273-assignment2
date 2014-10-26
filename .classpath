@@ -23,5 +23,6 @@
 	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/spring-data-commons-core-1.0.0.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/unirest-java-1.3.20.jar"/>
 	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/json-20140107.jar"/>
+	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/mongo-java-driver-2.12.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

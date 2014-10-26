@@ -6,7 +6,7 @@ import com.fasterxml.jackson.annotation.JsonFormat
 import org.codehaus.jackson.annotate.JsonIgnore
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.annotation.JsonInclude._
-
+import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.annotation.Id;
 
 import scala.collection.JavaConversions._

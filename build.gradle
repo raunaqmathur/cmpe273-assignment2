@@ -56,6 +56,7 @@ dependencies {
  compile("org.hibernate:hibernate-validator:5.0.1.Final")	
 
  compile("org.json:json:20140107")
+compile("org.mongodb:mongo-java-driver:2.12.4")
 
 
 }
